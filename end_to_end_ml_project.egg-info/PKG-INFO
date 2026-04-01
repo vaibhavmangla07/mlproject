@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: end_to_end_ml_project
+Version: 0.1
+Summary: An end-to-end machine learning project for anomaly detection using Isolation Forest.
+Author: Vaibhav Mangla
+Author-email: vmangla0704@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
